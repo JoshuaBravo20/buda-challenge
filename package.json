@@ -1,0 +1,12 @@
+{
+  "name": "buda-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Joshua Bravo",
+  "license": "ISC",
+  "type": "module"
+}
